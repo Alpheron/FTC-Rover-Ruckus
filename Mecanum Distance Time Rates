@@ -1,7 +1,8 @@
+Forward & Backward
 100 milliseconds 0.4 power 5 inches (13 cm)
-200 milliseconds 0.4 power 22 cm
-300 milliseconds 0.4 power 30 cm
-400 milliseconds 0.4 power 38 cm
+200 milliseconds 0.4 power 9 inches (22 cm) 
+300 milliseconds 0.4 power 12 inches (30 cm)
+400 milliseconds 0.4 power 16 inches (38 cm)
 
 Turn Left
 frontleftmotor bacjwards 0.4 speed
@@ -25,14 +26,14 @@ backleftmotor.setPower(0.5);
 frontrightmotor.setPower(-0.5);
 backrightmotor.setPower(0.5);
 
-100 milliseconds sleep = 3 cm
-200 = 6 cm
+100 milliseconds sleep = 3 cm (2 inches)
+200 = 6 cm (4 inches)
 
-Strafing Right
+Strafing Left
 frontleftmotor.setPower(0.5);
 backleftmotor.setPower(-0.5);
 frontrightmotor.setPower(0.5);
 backrightmotor.setPower(-0.5);
 
-100 milliseconds sleep = 3 cm
-200 = 6 cm
+100 milliseconds sleep = 3 cm (2 inches)
+200 = 6 cm (4 inches)
