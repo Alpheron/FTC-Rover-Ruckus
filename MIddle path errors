@@ -1,0 +1,48 @@
+Build started at Tue Dec 11 2018 16:34:55 GMT-0800 (Pacific Standard Time)
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 168, column 57: ERROR: <identifier> expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 224, column 5: ERROR: illegal start of expression
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 224, column 13: ERROR: illegal start of expression
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 224, column 19: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 224, column 45: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 229, column 5: ERROR: illegal start of expression
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 229, column 13: ERROR: illegal start of expression
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 229, column 19: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 229, column 46: ERROR: ')' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 229, column 56: ERROR: illegal start of expression
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 229, column 57: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 247, column 22: ERROR: <identifier> expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 247, column 24: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 248, column 40: ERROR: illegal start of type
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 248, column 41: ERROR: '(' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 249, column 34: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 252, column 4: ERROR: illegal start of type
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 252, column 5: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 14: ERROR: illegal start of type
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 23: ERROR: illegal start of type
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 32: ERROR: illegal start of type
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 35: ERROR: ')' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 40: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 47: ERROR: <identifier> expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 48: ERROR: illegal start of type
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 49: ERROR: <identifier> expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 253, column 50: ERROR: ';' expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 257, column 4: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 259, column 5: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 261, column 22: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 263, column 3: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 266, column 22: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 268, column 3: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 271, column 22: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 273, column 3: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 276, column 5: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 278, column 22: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 280, column 3: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 283, column 22: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 288, column 3: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 292, column 5: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 293, column 73: ERROR: class, interface, or enum expected
+org/firstinspires/ftc/teamcode/Distance_Formula.java line 297, column 1: ERROR: class, interface, or enum expected
+
+
+Build finished in 0.5 seconds
+Build FAILED!
