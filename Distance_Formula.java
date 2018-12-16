@@ -162,7 +162,7 @@ public class Distance_Formula extends LinearOpMode {
             long sleep2 = Math.round(sleep);
             forward_backward(direction, sleep2);
         } else if (direction == 'l' || direction == 'r') {
-            double sleep = Math.rint(distance/33.3333333333);
+            double sleep = Math.rint(distance*33.3333333333);
             long sleep2 = Math.round(sleep);
             strafedistance(direction,  sleep2);
         }
