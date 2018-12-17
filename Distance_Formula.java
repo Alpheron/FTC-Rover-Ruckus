@@ -72,20 +72,21 @@ public class Distance_Formula extends LinearOpMode {
         
         DistanceFormula(0.75, 0.5, 0.5, 0.9, 'l');
 
-        //DistanceFormula(0.5, 0.9, 0.8, 1.2, 'f');
+        DistanceFormula(0.5, 0.9, 0.8, 1.2, 'f');
       
         DistanceFormula(0.8, 1.2, 1, 1, 'r');
       
-        //DistanceFormula(1, 1, 2, 2, 'f');
+        DistanceFormula(1, 1, 2, 2.5, 'f');
       
-        //turn1(45);
+        turn1(45);
         
-        //DistanceFormula(2, 2, 3, 2, 'f');
+        DistanceFormula(2, 2, 3, 2, 'f');
        
         DistanceFormula(3, 2, 3, 2.75, 'l');
        
         sleep(1000);
-        //DistanceFormula(3, 2.75, -1, 3, 'b');
+        
+        DistanceFormula(3, 2.75, -1, 3, 'b');
       
     }
 
@@ -202,7 +203,7 @@ public class Distance_Formula extends LinearOpMode {
     // }
     
     private void turn1(int degrees) {
-        float millisecperdegree = (float)8.08;
+        float millisecperdegree = (float)8.04;
         int turn = (int)(millisecperdegree * degrees);
         
         if (degrees < 0) {
