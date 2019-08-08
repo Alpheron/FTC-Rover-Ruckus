@@ -1,0 +1,22 @@
+Move Forward (0.5 speed)
+100 ms = 15 cm
+200 ms = 26 cm
+300 ms = 36 cm
+400 ms = 46 cm
+
+Spin Left (0.5 speed)
+700 ms- 90 degrees
+
+Spin Right (0.5 speed)
+700 ms - 90 degrees
+
+Straferight (0.4 speed)
+100 ms - 2cm
+200 ms - 4.5 cm
+300 ms - 6.5 cm
+
+Strafeleft (0.4 speed)
+100 ms - 2cm
+200 ms - 4.5 cm
+300 ms - 6.5 cm
+
