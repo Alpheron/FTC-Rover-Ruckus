@@ -1,3 +1,3 @@
-# FTC-Rover-Ruckus
-Rover Ruckus
-This is the private repository of Aditya Mangalampalli and all his code changes for the FTC Rover Ruckus season.
+# FTC Team 14162 Codebase
+
+Code repository for FTC Team 14162 Bots and Bytes for the Rover Ruckus Season
